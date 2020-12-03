@@ -11,7 +11,13 @@
   weight = 2
 
 [[main]]
+  identifier = "tags"
+  name = "标签"
+  url = "tags"
+  weight = 3
+
+[[main]]
   identifier = "posts"
   name = "文章列表"
   url = "posts"
-  weight = 3
+  weight = 4
