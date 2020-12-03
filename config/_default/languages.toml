@@ -1,0 +1,6 @@
+[zh]
+  title = "CyberMilly's blog"
+  languageName = "简中"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/zh"
