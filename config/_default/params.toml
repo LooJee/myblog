@@ -1,4 +1,4 @@
-logoText = "CyberBlog"
+logoText = "IdeaLand"
 logoType = "short" # long, short
 description = "Explore ideas!!"
 custom_css = []
@@ -63,7 +63,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "HangZhou, China"
 organization = ""
-link = "https://zzossig.io/ko"
+link = "http://www.cybermilly.com"
 
 # sidebar
 enableBio = true

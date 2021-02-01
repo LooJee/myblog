@@ -1,5 +1,5 @@
-baseURL = "http://blog.cybermilly.com"
-title = "Cyber's Blog"
+baseURL = "http://www.cybermilly.com"
+title = "idea's land"
 theme = "zzo"
 
 defaultContentLanguage = "zh"
@@ -11,7 +11,8 @@ buildFuture = true
 
 #copyright = "&copy;{year}~time.Now(), All Rights Reserved"
 copyright = "&copy;2019~time.Now(), All Rights Reserved"
-timeout = 10000
+timeout = 60000
+ignoreErrors = ["error-remote-getjson"]
 enableEmoji = true
 paginate = 13
 rssLimit = 100
