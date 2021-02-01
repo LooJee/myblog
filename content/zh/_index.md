@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - CyberMilly
+      - chit-chat
     subtitle:
       - Stay hungry, stay foolish!!!
     titleColor: 
